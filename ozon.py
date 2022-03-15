@@ -1,7 +1,7 @@
 import json
 import re
 
-import requests as requests
+import requests
 from bs4 import BeautifulSoup
 
 
