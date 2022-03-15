@@ -94,7 +94,7 @@ class ParseYandexMarket:
 
     def get_result(self):
         profile_info = self.parse_profile()
-        products_info = self.parse_products()
+        products_info = self.parse_products()а
         review_info = self.parse_reviews()
         result = profile_info | products_info | review_info
 
