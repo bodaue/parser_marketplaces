@@ -1,0 +1,42 @@
+{
+    "profile": {
+        "Время вместе с Ozon": "1 год",
+        "Средняя оценка товаров": "4.8 из 5",
+        "Количество оценок": "6 482",
+        "Количество выполненных заказов": "меньше 10"
+    },
+    "products": [
+        {
+            "product_name": "RIVACASE VA2137 (10000mAh) Power bank / Внешний аккумулятор литий-полимерный, черный ",
+            "product_link": "www.ozon.ru/product/rivacase-va2137-10000mah-power-bank-vneshniy-akkumulyator-litiy-polimernyy-chernyy-218335831/?_bctx=CAQQ7TA&asb2=NxU_kWes13pg8jugSqkDcq9YZNXyo8cpBlTMYLn9RazS4X6yfOPKSIiTm0fRqKXBk-gAub5hoImAJc4PAPQgFg&hs=1&miniapp=seller_6253",
+            "photo": "https://cdn1.ozone.ru/s3/multimedia-q/c250/6052795790.jpg",
+            "price": "1 090 ₽",
+            "comments": "63 отзыва",
+            "rating": "94.9559111111111%"
+        },
+        {
+            "product_name": "RIVACASE VA2120 (20000mAh) Power bank / Внешний аккумулятор литий-полимерный, черный ",
+            "product_link": "www.ozon.ru/product/rivacase-va2120-20000mah-power-bank-vneshniy-akkumulyator-litiy-polimernyy-chernyy-218335836/?_bctx=CAQQ7TA&asb2=SROu8bANX6IUIpqHzFclr8GKixC4rWPeLZ_iwYehK6HrNMNgyPOtxnNoV5y0YMPD4TsD-FEzCUHvpTHbD_mNzA&hs=1&miniapp=seller_6253",
+            "photo": "https://cdn1.ozone.ru/s3/multimedia-9/c250/6052795701.jpg",
+            "price": "1 690 ₽",
+            "comments": "73 отзыва",
+            "rating": "93.63774222222222%"
+        },
+        {
+            "product_name": "Внешний аккумулятор RIVACASE VA2137 (10000mAh) белый с кабелем micro USB",
+            "product_link": "www.ozon.ru/product/vneshniy-akkumulyator-rivacase-va2137-10000mah-belyy-s-kabelem-micro-usb-243404653/?_bctx=CAQQ7TA&asb2=U91eq5BLrzxqkUjnLsFIemzZ_ZAfT_rU6jXBhqxzSoeahyfPav3lWFOBhyHr2z4oK3wWE5mTBoig91MJZfJpJA&hs=1&miniapp=seller_6253",
+            "photo": "https://cdn1.ozone.ru/s3/multimedia-a/c250/6050423914.jpg",
+            "price": "1 090 ₽",
+            "comments": "28 отзывов",
+            "rating": "96.50792888888888%"
+        },
+        {
+            "product_name": "Внешний аккумулятор RIVACASE VA 2580 (20000mAh) QC 3.0 и PD белый Цифровой дисплей Кабель Type C в комплекте",
+            "product_link": "www.ozon.ru/product/vneshniy-akkumulyator-rivacase-va-2580-20000mah-qc-3-0-i-pd-belyy-tsifrovoy-displey-kabel-type-c-243565426/?_bctx=CAQQ7TA&asb2=9xaToTA7O2SzgItDHhTf7oz3C7OMV0DdEb5Im5kSAAiMV9aB77cthOJejVMCcyWXs5nk0yhavh60WMCBEHV-Bg&hs=1&miniapp=seller_6253",
+            "photo": "https://cdn1.ozone.ru/s3/multimedia-x/c250/6134128725.jpg",
+            "price": "2 490 ₽",
+            "comments": "64 отзыва",
+            "rating": "95.83333333333334%"
+        }
+    ]
+}

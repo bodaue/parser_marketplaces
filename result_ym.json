@@ -1,0 +1,254 @@
+{
+    "profile": {
+        "name_of_shop": "www.video-shoper.ru",
+        "name_of_firm": "ДЖЭСМ-СЕРВИС",
+        "guarantees": "Вернуть товар надлежащего качества можно в течение 7 дней после покупки.",
+        "adress": "142304, Московская обл., г. Чехов, ул. Комсомольская, владение  18А каб.  2"
+    },
+    "products": [
+        {
+            "product_name": "Мобильный телефон Apple iPhone 13 Pro 128GB A2483 graphite (графитовый)",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-apple-iphone-13-pro-128gb-a2483-graphite-grafitovyi/1414773422?skuId=101443817744&sku=101443817744&businessId=779321&show-uid=16473672341405540607006000&offerid=4fvXq2UhQz4arrAWJSkiOA&cpc=lRSLgSDZTz4-Pmaf8ZVL6azWg-j1NaNLUsW9R6imqNAaUodjjjeRoNDS3lAZlLWAM2w0DoPG9NHVRmsYqnXXDOvNTBFz1X22FurFThP4iQmwZlp15jWJUmWA25tKFbteYLbp4ZYWGL1z3-fidG_XiyDa6J31Zm9LK5JV7S78aMY5HzD57edY0bbEsir8EEEe",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/4546166/pic2371bb6b31b3b94726cbf352ba0af2c5/300x300",
+            "price": "135 590 ₽",
+            "reviews": "222",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Apple iPhone 13 Pro Max 128GB A2641 sierra blue (небесно-голубой)",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-apple-iphone-13-pro-max-128gb-a2641-sierra-blue-nebesno-goluboi/1414858424?skuId=101446179766&sku=101446179766&businessId=779321&show-uid=16473672341415574494006000&offerid=0nhOzjR768piLhpwD4LADg&cpc=lRSLgSDZTz7WkVKa69HO6mbnuZ4lghWAn9mgAzww2PDBX7Ts9OtrFPebQWY-Xgpz6DzHlQCfo4GNKHsEv-IzcJgbyK68MoBIh6ZnPkCykS_SJfJYP9BExNEYqPaL-9crja_ivE14GsRfcr94xYPa2kRBVujVsCgeyns-mwUSj292BLwNq6t8CtaE89bQ1oVu",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/5508803/picb6321c6e142f01521d2325df293acbfd/300x300",
+            "price": "151 700 ₽",
+            "reviews": "297",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Игровая приставка Microsoft Xbox Series S 512 ГБ SSD white",
+            "product_link": "https://market.yandex.ru//product--igrovaia-pristavka-microsoft-xbox-series-s-512-gb-ssd-white/677505000?skuId=101432864740&sku=101432864740&businessId=779321&show-uid=16473672341335465788506000&offerid=SN6xWZ26XcAo3E_vjJueAg&cpc=lRSLgSDZTz7cvxjTho_n-zuWNRscHvb1CV83z93DVE_1JSvLyLHAqtijT-ijNBEOt-rkO3BDm4WJOn89De3k8ir6dpAOq5txpWxaot8vCMqTU1AqhtQbwqtcBnMBMl5LrrMRB41MGxdvTgxoMRGmX4OHi8TGefr0RIur6SHua6-QcDGrqRna_2jHRTOnAzUt",
+            "photo": "//avatars.mds.yandex.net/get-mpic/5235182/img_id1038650165336719263.jpeg/x248_trim",
+            "price": "47 490 ₽",
+            "reviews": "794",
+            "rating": "5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Samsung Galaxy Z Flip3 256Gb черный",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-samsung-galaxy-z-flip3-256gb-chernyi/1005118626?skuId=101373345820&sku=101373345820&businessId=779321&show-uid=16473672341395537918306000&offerid=eVwRN_zKubdnbAIHii99ow&cpc=TJg54oMV4diF6KgRdG5pvFnu69t5DhPn45Aw4yvYHLQcmH3oHHh1UKA5V4RyZZcXPfObmljqRWQdrOI1UY-_MkEovRB1oc-TJrmEZ3U8ax87gN5o841RG1kLPFJhJb2YT5Bb5Vv29IDWptR2Mz3h-aFMmOLvNR9tjGnkS_9hlKArabQgpCNL0Q2XBnOUgxj3",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1904635/pic56d43487a571b4d2dd2bc5ffad8f942d/300x300",
+            "price": "99 990 ₽",
+            "reviews": "77",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Apple iPhone 13 mini 128GB розовый",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-apple-iphone-13-mini-128gb-rozovyi/1414858419?skuId=101417781736&sku=101417781736&businessId=779321&show-uid=16473672341405553041406000&offerid=t3zC9jTjq4gUF7I-I6Fs0g&cpc=nu1Vf27QttfMdppRvUcwAB3EF2AtFU002qXOrFnENiemOnxWdDHQYVx95uX71gJiPgXT1_bj5WRtk-nFA1iCTyWO2sZjYbno23mfzzCLoJ9al_WX4GqgxqdXLGFVcuqX3U2BP2IW5Uwg3PhjaosZwj9AlxFAuxOS3klW44gnIdPyqUa5GT3NS5HQ1STn5EQN",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1582845/pic2722dd63f9de0b1a22c262a828b40639/300x300",
+            "price": "94 990 ₽",
+            "reviews": "99",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Apple iPhone 13 128GB A2631 starlight (сияющая звезда)",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-apple-iphone-13-128gb-a2631-starlight-siiaiushchaia-zvezda/1414986413?skuId=101446177751&sku=101446177751&businessId=779321&show-uid=16473672341425589212206000&offerid=0j_WzvpK4VuzgANXVVrjbA&cpc=TJg54oMV4dhx2hOkmk9glVq4PZm-iWkR1qU01ks0hmILARqeyfSfGqYdr1aKXncRIRhOIwWXQX05m9p3muuNXdlPhMPA0uN81gH_4Kih4_Bnc11kUDcOHaSZWDhXvvOuedWb1u3547uOKS1dxo3ZP82P2AtgvqJyFcHGinzXDZjKbTrkXjVzfG9w-O8Nji7L",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/6112833/pic014aa95ffebbbdf4f2725fe5dc579d14/300x300",
+            "price": "99 450 ₽",
+            "reviews": "324",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Apple iPhone 11 64GB фиолетовый Slimbox (MHDF3RU/A)",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-apple-iphone-11-64gb-fioletovyi-slimbox-mhdf3ru-a/558171067?skuId=101106266738&sku=101106266738&businessId=779321&show-uid=16473672341305429869106000&offerid=Ub8ZQ4Yax_nBXkFTzyvlYw&cpc=kh1KguOHTDDFF96NHcNn192Vt9XLyqUdq7gWTlCDErqcO30GlsW5_ckVdolz3H46b8fEmtf4AAGHxQJ-aDa7SIup32yo-GMMNeYR7fuRlF1hnfXTzKE4CcEUSnjja2fTDNCRnjeSxkqAFthaM6v9lArnHNoypqlSiInzQISzuPH91Wa2ljCTDOzzOzSLxMjM",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1634518/market_OIS50PMsa6MbFuDad1l6MA/300x300",
+            "price": "66 490 ₽",
+            "reviews": "3546",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Samsung Galaxy S20 FE (SM-G780G) 6/128Gb лаванда",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-samsung-galaxy-s20-fe-sm-g780g-6-128gb-lavanda/950292051?skuId=101310067861&sku=101310067861&businessId=779321&show-uid=16473672341375510593706000&offerid=14YDQXoP-gUlUO7jFSDbGA&cpc=TcWDSx-txJA_8Di1xvB_LpocVonBB8JlbIudKjUOKKpV4ws4bmumd-k_gR2k2vvcSJoBKhSeFdxRCbz9r_iCpo6Ai62WtYKB1KTHHBNqBYtPtMJdu3PH9PUPd9Up6FpDx6fJ9Sr6lO3Fgq8uIjNEjKW1F-B9QF52ZJPukkU7dRPpQlRmxgT4csdPgMNITP_K",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/5507489/pic1670772202cfd13a33e43e779ac17c9d/300x300",
+            "price": "49 790 ₽",
+            "reviews": "291",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Игровая приставка Sony PlayStation 5 825 Гб white (белый)",
+            "product_link": "https://market.yandex.ru//product--igrovaia-pristavka-sony-playstation-5-825-gb-white-belyi/665306170?skuId=101533243728&sku=101533243728&businessId=779321&show-uid=16473672341315439436906000&offerid=bHtlCaXS--0lJgrat6zL_Q&cpc=lRSLgSDZTz4DGYm2EIMwDm2DPU7xIQu1zGVwDCoBMX0e0ukOxNIC4gaLXpmGHeKtDSzewPO3ovu64ewi6Yf-gQfYBgZiNR2EioMZ0Hk3CqMjgqHuu6AD2k789cj77ZfheOAO3q5xmdm0D5XHoBQG4z28RPTZCr-JQnp1Rd-aRTGtUcoAcFLCi-fm4t_5-csH",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1873014/pic7ee069eef64522ecd5ffe4c92fdca49f/300x300",
+            "price": "139 990 ₽",
+            "reviews": "616",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Шлем виртуальной реальности Oculus Quest 2 - 256 GB белый",
+            "product_link": "https://market.yandex.ru//product--shlem-virtualnoi-realnosti-oculus-quest-2-256-gb-belyi/715626000?skuId=101072192728&sku=101072192728&businessId=779321&show-uid=16473672341335478372706000&offerid=qmdP46CJRo98kD4NXXpcIQ&cpc=lRSLgSDZTz64U_9O6W49WOI5iHEFx2j23xPj4ITXnJTnznxStbmQbHbTY263dlR6ihBE6TdoMH8fe75EMCkinAdS9G0AJWx5ZOl78mhyDZ9dHJyth_ow8dqey_VZCi-WDCLKWlbeY1x_3Dehs9IOu2Zku1LiV-m0DivwJ4pqDRcXQoYjIsO9FfCp5hjaOW6LmrIrONFIAlU%2C",
+            "photo": "//avatars.mds.yandex.net/get-mpic/4012265/img_id7416778362951025.png/x248_trim",
+            "price": "63 590 ₽",
+            "reviews": "156",
+            "rating": "5 из 5"
+        },
+        {
+            "product_name": "Шлем виртуальной реальности Oculus Quest 2 - 128 GB белый",
+            "product_link": "https://market.yandex.ru//product--shlem-virtualnoi-realnosti-oculus-quest-2-128-gb-belyi/1424745413?skuId=101430702728&sku=101430702728&businessId=779321&show-uid=16473672341445606059106000&offerid=bkUozUwEtSuy7rB6CPWiIA&cpc=lRSLgSDZTz67eYDfXi0KswDmRXZF-6hCTiUYrxP5UPbpawtXz12LYFH6Lv5mb6WMjKWWxpvATwurzW0GTb-Ubo_YS4SU5k4lpsbv2XIC7QfEaSx3mN-ryPjr8Cmsd8Apx-k_cfw1VTecvJqP6jPZla04c1Vdka384El1zPW1YSW8t-golmh6i-_wzv98HuCu",
+            "photo": "//avatars.mds.yandex.net/get-mpic/5240013/img_id4475966650975746018.jpeg/x248_trim",
+            "price": "52 990 ₽",
+            "reviews": "175",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон HONOR 50 Lite 6/128Gb космический серебристый",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-honor-50-lite-6-128gb-kosmicheskii-serebristyi/1462899440?skuId=101482790729&sku=101482790729&businessId=779321&show-uid=16473672341485675314006000&offerid=GPigQGHgMJTSNZ_RHDN94w&cpc=ZPd8UyEiJ7_HCSUB6AwE0cg5wkOsLVnC_0JOrSV5Hc1KWleLAuUn_XDoI_t67MN3YVAzoaYnaZ7cyWlbJB8RDQ73pEOwUR--1JnDH59X0XYDqOIee2tEiEOVjPSodNUsPbu6EioOY_iZIzNAnnyYydGPYCet5tn4i7G09vTrrLYPtbGovoqd0_FgvwM45oQ7",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/5645251/pic9279f9245fb62ab17857d67929f7ace8/300x300",
+            "price": "25 350 ₽",
+            "reviews": "93",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Планшет Samsung Galaxy Tab A8 SM-X200 32GB Wi-Fi розовый",
+            "product_link": "https://market.yandex.ru//product--planshet-samsung-galaxy-tab-a8-sm-x200-32gb-wi-fi-rozovyi/1657925278?skuId=101598328319&sku=101598328319&businessId=779321&show-uid=16473672341505739574306000&offerid=kpi-e3qVqsdzXkZEdErYBQ&cpc=_XEWIUQddw2aD1_gl6G5PcvVY4-VpXU--V6w1XRo0u5kvyQVjlB70jbpkNViOPTYga-NmidSdf9ljjdA3PjUYiGGr8SEdrAaxc-iNw9CSjNcr4vog1n35dJKVu6Rd1AxrYP_Z9PxA4x_wZIwgNaaVjcFAnv90WoPMqBwgKVYNXtzYUiPn8pIYi4uwVXnNHIY",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/173412/pic189114472cf3cf38d64d02341a2c22a9/300x300",
+            "price": "25 990 ₽",
+            "reviews": "8",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Беспроводные наушники Sony WH-1000XM4 silver",
+            "product_link": "https://market.yandex.ru//product--besprovodnye-naushniki-sony-wh-1000xm4-silver/676030002?skuId=100981243729&sku=100981243729&businessId=779321&show-uid=16473672341325454538606000&offerid=NITNqDLDW9pGGGKTaXk2nw&cpc=lRSLgSDZTz4agtjmg9zr6Jm880IDPQsGleby3c1UOBrDjFCJxoBKpTHT8bOvrqVFB9PmKQWayhD4VqSWehCURPyCP2ZL2kqzcF1-Ozfj7pDi9EEsw3SfePaUUMzccrl091pzsjvBRmVuW9YH2YZ-wuZO0YeNbnu6yPdazbCpCZQkXZskEnjaI6uGf8eGgDch",
+            "photo": "//avatars.mds.yandex.net/get-mpic/4080967/img_id8128133420125143221.jpeg/x248_trim",
+            "price": "32 990 ₽",
+            "reviews": "784",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон OnePlus 9 8/128GB astral black (астральный черный)",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-oneplus-9-8-128gb-astral-black-astralnyi-chernyi/892712125?skuId=101251587313&sku=101251587313&businessId=779321&show-uid=16473672341365503537106000&offerid=4Mx1FBYraottqaNM3nSc4w&cpc=yN8n7AnWwDuiIjZ4VV6LCG1MIRyBpWpiGPx2Da3v7TfnhqbK9a_pBfH2Xw1eoW0pzceTcskyMWoMqqK0_pfBLEy30uKdSa0VboYD--5CSAt44OdGYpnfafMhFFSt_nuOrjjlBVAHTjVoXHjoXBKEfaih1R43XXnCX9mYgvf8pCCGgCaWUkbAdYMX6DnIidcP",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1600211/market_2-EYw6Q-PQCK5zmAI-xJRg/300x300",
+            "price": "63 990 ₽",
+            "reviews": "163",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Xiaomi 11 Lite 5G NE 8/128Gb трюфельно-черный",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-xiaomi-11-lite-5g-ne-8-128gb-triufelno-chernyi/1449166270?skuId=101471256730&sku=101471256730&businessId=779321&show-uid=16473672341475655407306000&offerid=wV5r79MevM2pFEoFJl6pKw&cpc=r-FUHkq3jhl1VwBlWBizYAsiXiZo80Na0rx-DxM5ASeTkuqkQdqYJMIEnq-nCjqJ9ElnWp7C8c6-9NY0wjpkO0nuaPcKZnbWDu_fVe-gQTkb3CsvzcMnX92j5JIg-kwj_AHQN41E6jZJT4rDBDoDBFyaRG6feGbiN_Vr-6tApkJ7WoMR7q7l4uhrTdRGTFTY",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/5464049/picf2629e53c996efbed06c3201389d0ffb/300x300",
+            "price": "35 990 ₽",
+            "reviews": "185",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Беспроводные наушники Apple AirPods Pro MagSafe 2021 (MLWK3)",
+            "product_link": "https://market.yandex.ru//product--besprovodnye-naushniki-apple-airpods-pro-magsafe-2021-mlwk3/1482292426?skuId=101506230800&sku=101506230800&businessId=779321&show-uid=16473672341495690691406000&offerid=ywxrEoCucpqDf8zbJgwsSA&cpc=ULv_NC-bg9hzVQvGfazCJ2wVEpY4fYT55Bdx6QXCDGgiduZCyhRHq8EN2m3S_h0eqdC1p9Y4ovlB0iXQcTMaEz6hNefLiqq2HrtJBtPz7BZbq5om41MpukfthJSy52AFac1S_fmLcWE_MYtll951zB5OXsR0dZ0LKf4CONnsr8d-deRdP6oklsOiDEGRUyNo",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/6089104/pic28184db787f727cdb2076aed44db7d9e/300x300",
+            "price": "26 990 ₽",
+            "reviews": "214",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Apple iPhone 12 Pro 128GB A2407 gold (золотой)",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-apple-iphone-12-pro-128gb-a2407-gold-zolotoi/722978018?skuId=101402213735&sku=101402213735&businessId=779321&show-uid=16473672341345482444506000&offerid=d0qZmLZIriIj75QGAndAnA&cpc=hPtsRnamaT9OieQg3I_Eh72hIRzGRAhbyL5sQtwY2Rbcp8YqyJp-XJ7hwnpVIGHBaPfRQusNp14f0fN5jBNx1IM052QPAqMH9hNu93Xj09jDwd_i6EO4zbv5Dp54o7PDJ4IrQFhrkh6H3yhi2aFbbIbqUnC0ci9tLzkau5N1NoV--pyaoDGvsIRCCPbeUyeb",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/4405562/market_14Q7Pgncz7CQ2wiJpK7Wlg/300x300",
+            "price": "122 990 ₽",
+            "reviews": "805",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Наушники JBL Tune 500 синие",
+            "product_link": "https://market.yandex.ru//product--naushniki-jbl-tune-500-sinie/367883114?skuId=100569421773&sku=100569421773&businessId=779321&show-uid=16473672341295418652506000&offerid=HDdJet-Y9yU-XV8awDKDZA&cpc=51xjlxLlGwB51yQLRphY1DuwPPRRB9E7LSwYQKxQVP-tUnYrztesLl5r1xOvZR-B3kFpNEfOuQMQbQqrNooKw5tkzqME-nlzTQ51N4Wye2GesfzhAGvhohDDUOa_xmtD0xfkNqCF1hGlK9J3rqmyub6TRf_WdxozxQU85Ku5qnzMPPEc0NCd8ePbTgMlU_Kh",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1779004/picfe844417104cf66349027fcb10c0f0e2/300x300",
+            "price": "2 490 ₽",
+            "reviews": "337",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Xiaomi 11T 8/128GB Blue (голубой) Global Version",
+            "product_link": "https://market.yandex.ru//offer/6zcPL7rFHq5qhopzD3Q4wQ",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1708279/pic1cb1c016f954ee809027a0558d9b171a/300x300",
+            "price": "46 990 ₽",
+            "reviews": "103",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Модуль с Яндекс.ТВ - Смарт.ТВ с Алисой [4K], черный",
+            "product_link": "https://market.yandex.ru//product--modul-s-yandex-tv-smart-tv-s-alisoi-4k-chernyi/1423999414?skuId=101429546728&sku=101429546728&businessId=779321&show-uid=16473672341435594771806000&offerid=y5oxr_z0fF3AfOMsO-Hw_w&cpc=Z553UrVo0nJhXJuzw_XDH_Dj3dPstdomZC7JhfJSMFlUzNJIfxFViOAq_twiW4WHVLTsbJM2FHJ3jSeM533nrhwKd1PRBbhmyLzF9EfdcHgLvtwbKj8J9AOZXDZ75Qo3bnUXvCeH2yKew1IBs22ILKJhM9ZY21vHY2C1uGcaLaGPKP2lwparGHedNX8nv4Ov",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1894156/pic32517f4a22a3557f1b422085603a82b6/300x300",
+            "price": "6 490 ₽",
+            "reviews": "2009",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Samsung Galaxy A52 4/128Gb лаванда",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-samsung-galaxy-a52-4-128gb-lavanda/865640004?skuId=101218635768&sku=101218635768&businessId=779321&show-uid=16473672341355498255906000&offerid=LM_ImAdIbG27LkvXYxZQsw&cpc=kz_ZDtlyMLoKDy9-AQAUdwHmKv_Kzvm1iOtwfiE63eZXChmP9h0ty_I4ZgLuL1IT1mQ3J1KGHhOF7wXkZsXujt2AZuhmtiClOyk79nwxhFUmKLRxSmYTLX43ue4DNh-FDNPBmMaVeEnekbgj_h3P7r1vV1cFWkLA2VqjdnbActlBo27C51LzkuNh6F-UhKig",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1710046/pic10de4823928a84552d4698d16459a59f/300x300",
+            "price": "34 390 ₽",
+            "reviews": "1256",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Xiaomi 11T Pro 8/128GB Moonlight White (лунный белый) Global Version",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-xiaomi-11t-pro-8-128gb-moonlight-white-lunnyi-belyi-global-version/1445762236?skuId=101456586660&sku=101456586660&businessId=779321&show-uid=16473672341465634220706000&offerid=1b8C4huyK_bBEi_viC8kAg&cpc=pDwK_5BNVMs_lsMFhlv_TS1lNVTU4yoW6vpSxqo85S-CWDRwhGJ18Yt-kloYLvFY13r9ruPHP4rsIPdaqP0W8YKZ5cntop52PkWwCuaS8g3cJQyISywxgs0pyAahVdz87-hFIcuuP-evxWNDjHNsApNAoL2cLoDqrZz38xrCHX1rW4S-77clx3cjR0g6SF6T",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1533523/pic9bae406c3e5a36a058f895dcc412b6ba/300x300",
+            "price": "58 990 ₽",
+            "reviews": "54",
+            "rating": "4.5 из 5"
+        },
+        {
+            "product_name": "Мобильный телефон Xiaomi Redmi Note 10T 4/128GB (NFC) зеленое сияние",
+            "product_link": "https://market.yandex.ru//product--mobilnyi-telefon-xiaomi-redmi-note-10t-4-128gb-nfc-zelenoe-siianie/963773535?skuId=101326521736&sku=101326521736&businessId=779321&show-uid=16473672341385522377306000&offerid=QVnKbEY6iCHQWW5v7iQUrQ&cpc=nu1Vf27Qttfb3etf1n3YpPUbuDCPtLMIDI6QFxSqCvmU3521SgXjBkjabK4YDgDe_HEVMLRxvejFC27J_EWhnFf9Txs3XUjDFOgRmGCf_yO9c2ePMzHvSWIYQl_rCS6MreHsH8SVEqNjpQI30YkACWhsUCulmEe02h3u2BeAl7pfgiWPIohHeuXRNmh1S7cT",
+            "photo": "//avatars.mds.yandex.net/get-marketpic/1688789/pic7ddd70f71f205d7fd4545f3fbb7d1c12/300x300",
+            "price": "23 790 ₽",
+            "reviews": "23",
+            "rating": "4 из 5"
+        }
+    ],
+    "reviews": [
+        {
+            "name_of_reviewer": "Никита М.",
+            "rating": "3",
+            "commentary": "Покупал iphone с самовывозом из магазина. С айфоном всё хорошо, он оригинальный, но аксессуары, которые мне нагрузили в комплект, вызывают сомнения, а именно блок питания Apple на 20вт. Я не сомневался и даже не стал проверять его оригинальность на месте, доверяя этому магазину. Уже дома, вскрыв упаковку блока и посмотрев обзоры на Ютубе, я понял, что он не оригинальный. Качество сборки и качество пластика отличается. Хотя это ОЧЕНЬ качественная подделка!\nКак итог, советую вам НЕ ПОКПАТЬ! никаких аксессуаров в этом магазине, в комплекте к телефону! Особенно к Apple! Речь идёт о проводах Apple и блоках питания. Подделка настолько качественная, что отличить я её смог, только купив оригинал в официальном магазине!"
+        },
+        {
+            "name_of_reviewer": "Александр К.",
+            "rating": "1",
+            "commentary": "Я могу понять всё, но когда ты ждёшь заказ, а тебе звонят и говорят, что его не привезут, потому что его не зарезервировали и возможно \"кто-то успел до меня\" - это свинство. В современном русском языке для этого есть вполне цензурный эквивалент - \"кидалово\".\nДелал заказ 22.02.2022 г. на MacBook Air, номер заказа 13, оформил доставку на 27.02. 25.02 СПЕЦИАЛЬНО ПОЗВОНИЛ САМ, чтобы удостовериться, что заказ привезут в оговоренные дату и период времени. Сегодня, 26.02.2022 г., в 11 утра звонит сотрудник магазина, чтобы сообщить, что товар ко мне не приедет! На мои вопросы, почему так получилось, ведь я сделал заказ и даже специально подтверждал его самостоятельно, я получил ответ, что \"заказ просто обрабатывается оператором (хотя это был обычный сотрудник магазина, судя по всему, а не отдельный \"оператор\") при звонке, а собирают его за сутки, и его не резервировали, и возможно кто-то просто УСПЕЛ КУПИТЬ ТОВАР ДО МЕНЯ\"! В качестве замены предложен макбук версии \"Pro\" стоимостью в два раза больше!\nКак такое вообще возможно? Магазин просто плюёт на обязательства перед клиентом и продаёт заказанный мной товар тому, кто успел приехать раньше меня?\nНЕ РЕКОМЕНДУЮ ДАННЫЙ МАГАЗИН КАТЕГОРИЧЕСКИ! Обидно, что вероятнее всего придётся и в будущем покупать в данном магазине, поскольку большую часть заказов делаю через приложение \"Яндекс Маркет\", и какие-то товары так или иначе продаются данным магазином через торговую площадку Яндекса, но при возможности буду этого избегать."
+        },
+        {
+            "name_of_reviewer": "Анна",
+            "rating": "5",
+            "commentary": null
+        },
+        {
+            "name_of_reviewer": "А Т",
+            "rating": "2",
+            "commentary": "Не часто покупаю электронику. До настоящего момента несколько раз пользовался услугами video-shoper (в основном покупал смартфоны) и впечатления оставались в принципе весьма положительные (единственным негативным моментом являлось весьма агрессивное впаривание всяческих допов. Потребовалось приобрести робот-пылесос, у них он оказался в наличии и именно русская версия, а не Глобал и хоть цена ничуть не дороже чем в других местах, решил по старой памяти заказать в видео-шопере. Однако милая девушка по телефону мне сообщила что стоимость доставки значительно отличается от той что указана на ЯМ, но да ладно с эти ещё можно было бы смириться, но отсутствие возможности заказать доставку хоть на какой то интервал времени - это конечно жесть. Типа сидите и ждите с 9 утра до 22 вечера, а курьер вам позвонит за час. И это такое отношение к постоянному клиенту, который собирается в их магазине потратить почти полсотни тысяч рублей! Не знаю кому как, а у меня нет возможности так разбрасываться своим временем и жить в зависимости от планов курьера. В результате заказал в сетевом магазине , на который ведет ссылка с оф.сайта производителя этих роботов-пылесосов, с учетом бесплатной доставки в магазин напротив дома, где сразу при заказе была выдана информация, когда я смогу его там забрать и возможность оплатить на месте по карте.\nРаньше владелец магазина video-shoper в видео на сайте заявлял, что раз они меньше, то должны стараться больше. Так вот могу однозначно сказать, что стараться они стали гораздо меньше и для меня как для потребителя практически все имевшие в своем активе плюсы растеряли."
+        },
+        {
+            "name_of_reviewer": "Илья М.",
+            "rating": "5",
+            "commentary": null
+        },
+        {
+            "name_of_reviewer": "Кирилл К.",
+            "rating": "5",
+            "commentary": null
+        },
+        {
+            "name_of_reviewer": "Ирина Г.",
+            "rating": "5",
+            "commentary": "Долго выбирала где купить. В результате выбор пал на этот магазин. Мне его посоветовали: цена/качество.\nЗаказ был привезён быстро, в срок. Курьер был вежлив, связался заранее. Дал время на проверку.\nСпасибо! Рекомендую."
+        },
+        {
+            "name_of_reviewer": "Дмитрий Боровиков",
+            "rating": "5",
+            "commentary": "Брал Apple Airpods Max голубые. Всё отлично, оригинальные, в нетронутой упаковке, с фирменной \"чекой\" от Apple. Очень доволен, цена более чем разумная."
+        },
+        {
+            "name_of_reviewer": "Иван Румянцев",
+            "rating": "5",
+            "commentary": null
+        },
+        {
+            "name_of_reviewer": "Имя скрыто",
+            "rating": "4",
+            "commentary": null
+        }
+    ]
+}
