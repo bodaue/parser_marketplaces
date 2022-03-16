@@ -103,7 +103,7 @@ class ParseYandexMarket:
     # сохранение результата в формате json
     def save_result(self):
         res = self.get_result()
-        with open(f'result_ym   .json', 'w', encoding='utf-8') as file:
+        with open(f'result_ym.json', 'w', encoding='utf-8') as file:
             json.dump(res, file, indent=4, ensure_ascii=False)
 
 

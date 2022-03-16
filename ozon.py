@@ -25,8 +25,9 @@ class ParseOzon:
     def parse_profile(self):
         link = self.profile + '/profile/'
         soup = self.load_page(link)
-        data_of_charaterictics = soup.find_all("div", class_="f-caption ht7 h8t")
-        data_of_values = soup.find_all("div", class_="f-subtitle h7t")
+
+        data_of_charaterictics = soup.find_all("div", class_="tsCaption th8 t9h")
+        data_of_values = soup.find_all("div", class_="tsBodyL t8h")
         dct = dict()
 
         for i in range(len(data_of_charaterictics)):
@@ -42,18 +43,18 @@ class ParseOzon:
     def parse_products(self):
         link = self.profile + '/products/'
         soup = self.load_page(link)
-        products = soup.find_all('div', class_='h6y hy7')
-        list_of_products = []
+        products = soup.find_all('div', class_='y7h yh8')
 
-        for index, product in enumerate(products):
+        list_of_products = []
+        for product in products:
             price = product.find('span', class_=re.compile('ui-q3 ui-q6')).text  #
 
-            product_name = product.find("span", class_='vc5 cv6 vc6 c8v f-tsBodyL xh0').text
+            product_name = product.find("span", class_='vc6 cv7 vc7 c9v tsBodyL hx2').text
 
             product_link = product.find('a')
             product_link = 'www.ozon.ru' + product_link.get('href')
 
-            comments = product.find('a', class_='v3c').text
+            comments = product.find('a', class_='v4c').text
 
             photo = product.find('img')
             photo = photo.get('src')
@@ -84,4 +85,4 @@ class ParseOzon:
 
 parse = ParseOzon('https://www.ozon.ru/seller/riva-6253')
 
-print(parse.save_result())
+(parse.save_result())
