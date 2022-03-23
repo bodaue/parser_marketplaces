@@ -1,0 +1,4310 @@
+{
+    "profile": {
+        "name": "Apple",
+        "shop_id": "apple"
+    },
+    "products": [
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 11 128GB / 6.1'' / 1792x828 / Liquid Retina HD / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/16023993/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16020000/16023993-1.jpg",
+            "price": "81990",
+            "count_rating": "1393",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 11 128GB / 6.1'' / 1792x828 / Liquid Retina HD / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/16023990/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16020000/16023990-1.jpg",
+            "price": "81990",
+            "count_rating": "1393",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 256GB / 6.1'' / 2532x1170 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40651288/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40650000/40651288-1.jpg",
+            "price": "129990",
+            "count_rating": "249",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Зарядное устройство Type C",
+            "link": "https://www.wildberries.ru/catalog/15877012/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15877012-1.jpg",
+            "price": "2900",
+            "count_rating": "1299",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 11 64GB / 6.1'' / 1792x828 / Liquid Retina HD / 64 ГБ",
+            "link": "https://www.wildberries.ru/catalog/16023983/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16020000/16023983-1.jpg",
+            "price": "72990",
+            "count_rating": "660",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 256GB / 6.1'' / 2532x1170 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40651286/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40650000/40651286-1.jpg",
+            "price": "129990",
+            "count_rating": "249",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Ноутбук Apple M1 Pro / 16 ГБ / 1 Тб / 14'' / 3024x1964 / Apple M1 Pro (16 ядер) / macOS / MKGQ3RU/A",
+            "link": "https://www.wildberries.ru/catalog/44939784/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/44930000/44939784-1.jpg",
+            "price": "376040",
+            "count_rating": "8",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 256GB / 6.1'' / 2532x1170 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40651287/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40650000/40651287-1.jpg",
+            "price": "129990",
+            "count_rating": "249",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 256GB / 6.1'' / 2532x1170 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40651289/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40650000/40651289-1.jpg",
+            "price": "129990",
+            "count_rating": "249",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Гарнитура AirPods",
+            "link": "https://www.wildberries.ru/catalog/7601411/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7600000/7601411-1.jpg",
+            "price": "19340",
+            "count_rating": "2662",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Гарнитура",
+            "link": "https://www.wildberries.ru/catalog/44808161/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/44800000/44808161-1.jpg",
+            "price": "25410",
+            "count_rating": "205",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875669/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875669-1.jpg",
+            "price": "99990",
+            "count_rating": "404",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 mini 128GB / 5.4'' / 2340x1080 / OLED / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40674477/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40670000/40674477-1.jpg",
+            "price": "99990",
+            "count_rating": "121",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 256GB / 6.1'' / 2532x1170 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40652656/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40650000/40652656-1.jpg",
+            "price": "129990",
+            "count_rating": "28",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Watch Series 7",
+            "link": "https://www.wildberries.ru/catalog/46617792/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/46610000/46617792-1.jpg",
+            "price": "57440",
+            "count_rating": "118",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875670/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875670-1.jpg",
+            "price": "99990",
+            "count_rating": "404",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Watch Series 7",
+            "link": "https://www.wildberries.ru/catalog/46617793/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/46610000/46617793-1.jpg",
+            "price": "57440",
+            "count_rating": "118",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 11 128GB / 6.1'' / 1792x828 / Liquid Retina HD / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/16023992/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16020000/16023992-1.jpg",
+            "price": "81990",
+            "count_rating": "1393",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875672/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875672-1.jpg",
+            "price": "99990",
+            "count_rating": "404",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Стилус MU8F2ZM/A",
+            "link": "https://www.wildberries.ru/catalog/6805066/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6800000/6805066-1.jpg",
+            "price": "16710",
+            "count_rating": "80",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 mini 64GB / 5.4'' / 2340x1080 / OLED / 64 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875649/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875649-1.jpg",
+            "price": "78990",
+            "count_rating": "117",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Ноутбук Apple M1 Pro / 16 ГБ / 1 Тб / 14'' / 3024x1964 / Apple M1 Pro (16 ядер) / macOS / MKGT3RU/A",
+            "link": "https://www.wildberries.ru/catalog/44949514/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/44940000/44949514-1.jpg",
+            "price": "376040",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/26950627/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/26950000/26950627-1.jpg",
+            "price": "99990",
+            "count_rating": "404",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Watch SE",
+            "link": "https://www.wildberries.ru/catalog/47446178/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/47440000/47446178-1.jpg",
+            "price": "39990",
+            "count_rating": "45",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875673/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875673-1.jpg",
+            "price": "99990",
+            "count_rating": "404",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 512GB / 6.1'' / 2532x1170 / OLED / 512 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40654196/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40650000/40654196-1.jpg",
+            "price": "159990",
+            "count_rating": "17",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 mini 128GB / 5.4'' / 2340x1080 / OLED / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875658/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875658-1.jpg",
+            "price": "89990",
+            "count_rating": "141",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 mini 128GB / 5.4'' / 2340x1080 / OLED / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40674480/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40670000/40674480-1.jpg",
+            "price": "99990",
+            "count_rating": "121",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 512GB / 6.1'' / 2532x1170 / OLED / 512 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40654197/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40650000/40654197-1.jpg",
+            "price": "159990",
+            "count_rating": "17",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 11 128GB / 6.1'' / 1792x828 / Liquid Retina HD / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/16023994/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16020000/16023994-1.jpg",
+            "price": "81990",
+            "count_rating": "1393",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Nike Series 7",
+            "link": "https://www.wildberries.ru/catalog/47662372/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/47660000/47662372-1.jpg",
+            "price": "53810",
+            "count_rating": "32",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Apple M1 / 16 ГБ / 256 Гб / 24\" / 4480x2520 / Apple M1 8-core / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/62875032/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/62870000/62875032-1.jpg",
+            "price": "299230",
+            "count_rating": "1",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone SE 64GB (PRODUCT)RED / 4.7'' / 1334x750 / IPS / 64 ГБ",
+            "link": "https://www.wildberries.ru/catalog/16024003/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16020000/16024003-1.jpg",
+            "price": "55270",
+            "count_rating": "24",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 128Gb Wi-Fi 12.9\" 2021 / 12.9'' / 128 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27106602/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27100000/27106602-1.jpg",
+            "price": "155650",
+            "count_rating": "6",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875665/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875665-1.jpg",
+            "price": "93990",
+            "count_rating": "289",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Watch Nike SE",
+            "link": "https://www.wildberries.ru/catalog/46626355/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/46620000/46626355-1.jpg",
+            "price": "39990",
+            "count_rating": "12",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 mini 128GB (PRODUCT)RED / 5.4'' / 2340x1080 / OLED / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875656/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875656-1.jpg",
+            "price": "89990",
+            "count_rating": "18",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 512GB / 6.1'' / 2532x1170 / OLED / 512 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40658646/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40650000/40658646-1.jpg",
+            "price": "159990",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Watch Series 7",
+            "link": "https://www.wildberries.ru/catalog/46606916/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/46600000/46606916-1.jpg",
+            "price": "53810",
+            "count_rating": "87",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 mini 256GB / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40679259/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40670000/40679259-1.jpg",
+            "price": "118990",
+            "count_rating": "39",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Nike Series 7",
+            "link": "https://www.wildberries.ru/catalog/47682422/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/47680000/47682422-1.jpg",
+            "price": "57440",
+            "count_rating": "51",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875677/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875677-1.jpg",
+            "price": "114990",
+            "count_rating": "54",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone SE 128GB (PRODUCT)RED / 4.7'' / 1334x750 / IPS / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/16024006/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16020000/16024006-1.jpg",
+            "price": "62180",
+            "count_rating": "8",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Наушники EarPods (Lightning)",
+            "link": "https://www.wildberries.ru/catalog/3657542/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/3650000/3657542-1.jpg",
+            "price": "4040",
+            "count_rating": "627",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875651/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875651-1.jpg",
+            "price": "78990",
+            "count_rating": "31",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Intel Core i5 / 8 ГБ / 256 Гб / 5120x2880 / AMD Radeon Pro 5300 / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/14550367/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/14550000/14550367-1.jpg",
+            "price": "302430",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель USB 2.0 тип A / Lightning",
+            "link": "https://www.wildberries.ru/catalog/11031165/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11030000/11031165-1.jpg",
+            "price": "2900",
+            "count_rating": "161",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 mini 128GB / 5.4'' / 2340x1080 / OLED / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40677274/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40670000/40677274-1.jpg",
+            "price": "99990",
+            "count_rating": "22",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Переходник mini jack 3.5 мм / lightning 8 pin",
+            "link": "https://www.wildberries.ru/catalog/3367254/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/3360000/3367254-1.jpg",
+            "price": "1290",
+            "count_rating": "617",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 11 Pro Max, 256 ГБ / 6.5'' / 2688x1242 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/43884862/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/43880000/43884862-1.jpg",
+            "price": "118850",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Watch Series 7",
+            "link": "https://www.wildberries.ru/catalog/46606919/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/46600000/46606919-1.jpg",
+            "price": "53810",
+            "count_rating": "87",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 mini 256GB / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40679261/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40670000/40679261-1.jpg",
+            "price": "118990",
+            "count_rating": "39",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 11 Pro, 512 ГБ / 5.8'' / 2436x1125 / OLED / 512 ГБ",
+            "link": "https://www.wildberries.ru/catalog/43886499/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/43880000/43886499-1.jpg",
+            "price": "109170",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875667/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875667-1.jpg",
+            "price": "93990",
+            "count_rating": "289",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 128GB (PRODUCT)RED / 6.1'' / 2532x1170 / OLED / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875671/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875671-1.jpg",
+            "price": "99990",
+            "count_rating": "21",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Watch Series 7",
+            "link": "https://www.wildberries.ru/catalog/46617794/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/46610000/46617794-1.jpg",
+            "price": "57440",
+            "count_rating": "118",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 512GB / 6.1'' / 2532x1170 / OLED / 512 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40654195/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40650000/40654195-1.jpg",
+            "price": "159990",
+            "count_rating": "17",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 128GB Wi-Fi + Cellular / 12.9'' / 128 ГБ / IPS / 5G; 4G; 3G; 2G",
+            "link": "https://www.wildberries.ru/catalog/27108961/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27100000/27108961-1.jpg",
+            "price": "176010",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Ноутбук Apple M1 8 core / 16 ГБ / 512 Гб / 13.3'' / 2560x1600 / macOS / Z11C0002Z",
+            "link": "https://www.wildberries.ru/catalog/62887381/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/62880000/62887381-1.jpg",
+            "price": "299230",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Intel Core i5 / 8 ГБ / 512 Гб / 5120x2880 / AMD Radeon Pro 5300 / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/14550368/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/14550000/14550368-1.jpg",
+            "price": "320000",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Стилус Pencil",
+            "link": "https://www.wildberries.ru/catalog/5465769/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5460000/5465769-1.jpg",
+            "price": "13080",
+            "count_rating": "93",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/26949702/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/26940000/26949702-1.jpg",
+            "price": "93990",
+            "count_rating": "289",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Nike Series 7",
+            "link": "https://www.wildberries.ru/catalog/47682421/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/47680000/47682421-1.jpg",
+            "price": "57440",
+            "count_rating": "51",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875675/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875675-1.jpg",
+            "price": "114990",
+            "count_rating": "54",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Зарядное устройство Type C",
+            "link": "https://www.wildberries.ru/catalog/15877013/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15877013-1.jpg",
+            "price": "5810",
+            "count_rating": "129",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель Lightning / USB Type C / MQGH2ZM/A",
+            "link": "https://www.wildberries.ru/catalog/48319873/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/48310000/48319873-1.jpg",
+            "price": "4350",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Наушники EarPods (3.5 мм)",
+            "link": "https://www.wildberries.ru/catalog/4252803/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/4250000/4252803-1.jpg",
+            "price": "4040",
+            "count_rating": "389",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Apple M1 / 8 ГБ / 512 Гб / 24\" / 4480x2520 / Apple M1 8-core / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/62854427/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/62850000/62854427-1.jpg",
+            "price": "299230",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 512GB Wi-Fi + Cellular / 12.9'' / 512 ГБ / IPS / 5G; 4G; 3G; 2G",
+            "link": "https://www.wildberries.ru/catalog/27113724/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27110000/27113724-1.jpg",
+            "price": "215290",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 256GB Wi-Fi + Cellular / 12.9'' / 256 ГБ / IPS / 5G; 4G; 3G; 2G",
+            "link": "https://www.wildberries.ru/catalog/27112716/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27110000/27112716-1.jpg",
+            "price": "189110",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Клавиатура",
+            "link": "https://www.wildberries.ru/catalog/27097553/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27097553-1.jpg",
+            "price": "52790",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875678/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875678-1.jpg",
+            "price": "114990",
+            "count_rating": "54",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Watch Series 7",
+            "link": "https://www.wildberries.ru/catalog/46606918/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/46600000/46606918-1.jpg",
+            "price": "53810",
+            "count_rating": "87",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Зарядное устройство USB мощностью 12 Вт (MGN03ZM/A) / USB",
+            "link": "https://www.wildberries.ru/catalog/15050149/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15050000/15050149-1.jpg",
+            "price": "2900",
+            "count_rating": "35",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/15875664/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875664-1.jpg",
+            "price": "93990",
+            "count_rating": "289",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы Nike Series 7",
+            "link": "https://www.wildberries.ru/catalog/47662373/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/47660000/47662373-1.jpg",
+            "price": "53810",
+            "count_rating": "32",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 1TB Wi-Fi / 11'' / 1024 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27120035/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27120000/27120035-1.jpg",
+            "price": "205110",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 512GB Wi-Fi 12.9\" 2021 / 12.9'' / 512 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27107211/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27100000/27107211-1.jpg",
+            "price": "194920",
+            "count_rating": "4",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Внешний аккумулятор Внешний магнитный аккумулятор / MJWY3ZE/A",
+            "link": "https://www.wildberries.ru/catalog/37026513/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/37020000/37026513-1.jpg",
+            "price": "13800",
+            "count_rating": "37",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 mini 256GB / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/26953955/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/26950000/26953955-1.jpg",
+            "price": "104990",
+            "count_rating": "34",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Клавиатура",
+            "link": "https://www.wildberries.ru/catalog/27096983/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27096983-1.jpg",
+            "price": "46400",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Клавиатура MXQT2RS/A / мембранная",
+            "link": "https://www.wildberries.ru/catalog/11757353/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11757353-1.jpg",
+            "price": "46400",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Apple M1 / 16 ГБ / 256 Гб / 24\" / 4480x2520 / Apple M1 8-core / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/62882121/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/62880000/62882121-1.jpg",
+            "price": "264020",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 512GB / 6.1'' / 2532x1170 / OLED / 512 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40654198/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40650000/40654198-1.jpg",
+            "price": "159990",
+            "count_rating": "17",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Apple M1 / 8 ГБ / 256 Гб / 24\" / 4480x2520 / Apple M1 8-core / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/27131406/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27130000/27131406-1.jpg",
+            "price": "264020",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 mini 256GB / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40680758/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40680000/40680758-1.jpg",
+            "price": "118990",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Компьютер 8 ГБ / 256 Гб / macOS",
+            "link": "https://www.wildberries.ru/catalog/16865239/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16865239-1.jpg",
+            "price": "120000",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Гарнитура AirPods Max (MGYJ3RU/A)",
+            "link": "https://www.wildberries.ru/catalog/17966390/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17960000/17966390-1.jpg",
+            "price": "82990",
+            "count_rating": "7",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Трекпад MK2D3ZM/A",
+            "link": "https://www.wildberries.ru/catalog/37018768/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/37010000/37018768-1.jpg",
+            "price": "20650",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/6268014/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6260000/6268014-1.jpg",
+            "price": "2900",
+            "count_rating": "36",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 512GB Wi-Fi + Cellular / 12.9'' / 512 ГБ / IPS / 5G; 4G; 3G; 2G",
+            "link": "https://www.wildberries.ru/catalog/27113723/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27110000/27113723-1.jpg",
+            "price": "215290",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель USB Type-C",
+            "link": "https://www.wildberries.ru/catalog/4050114/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/4050000/4050114-1.jpg",
+            "price": "2900",
+            "count_rating": "28",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Apple M1 / 8 ГБ / 512 Гб / 24\" / 4480x2520 / Apple M1 8-core / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/27225832/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27220000/27225832-1.jpg",
+            "price": "272030",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 512GB Wi-Fi 12.9\" 2021 / 12.9'' / 512 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27107212/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27100000/27107212-1.jpg",
+            "price": "194920",
+            "count_rating": "4",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 2TB Wi-Fi + Cellular 12.9\" 2021 / 12.9'' / 2048 ГБ / IPS / 5G; 4G; 3G",
+            "link": "https://www.wildberries.ru/catalog/27115239/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27110000/27115239-1.jpg",
+            "price": "300000",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/15880293/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880293-1.jpg",
+            "price": "7260",
+            "count_rating": "20",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Apple M1 / 8 ГБ / 512 Гб / 24\" / 4480x2520 / Apple M1 8-core / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/27225834/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27220000/27225834-1.jpg",
+            "price": "272030",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель USB 2.0 тип A / Lightning",
+            "link": "https://www.wildberries.ru/catalog/2157464/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/2150000/2157464-1.jpg",
+            "price": "4350",
+            "count_rating": "58",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель USB Type-C",
+            "link": "https://www.wildberries.ru/catalog/6947993/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6940000/6947993-1.jpg",
+            "price": "2900",
+            "count_rating": "4",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/41417576/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41417576-1.jpg",
+            "price": "7260",
+            "count_rating": "9",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 mini 256GB (PRODUCT)RED / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875661/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875661-1.jpg",
+            "price": "104990",
+            "count_rating": "12",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Зарядное устройство for Apple (Lightning)",
+            "link": "https://www.wildberries.ru/catalog/16865241/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16865241-1.jpg",
+            "price": "20350",
+            "count_rating": "8",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Гарнитура AirPods Max (MGYJ3RU/A)",
+            "link": "https://www.wildberries.ru/catalog/17966388/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17960000/17966388-1.jpg",
+            "price": "82990",
+            "count_rating": "7",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41416712/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41416712-1.jpg",
+            "price": "7260",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41411819/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41411819-1.jpg",
+            "price": "7260",
+            "count_rating": "22",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Зарядное устройство Type C",
+            "link": "https://www.wildberries.ru/catalog/15065926/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15060000/15065926-1.jpg",
+            "price": "7980",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/41407208/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41407208-1.jpg",
+            "price": "8720",
+            "count_rating": "27",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 mini 256GB / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875659/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875659-1.jpg",
+            "price": "104990",
+            "count_rating": "34",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Клавиатура MK2A3RS/A",
+            "link": "https://www.wildberries.ru/catalog/37015810/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/37010000/37015810-1.jpg",
+            "price": "15850",
+            "count_rating": "9",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 1TB Wi-Fi / 12.9'' / 1024 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27107826/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27100000/27107826-1.jpg",
+            "price": "247300",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/40682784/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40680000/40682784-1.jpg",
+            "price": "144990",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41417191/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41417191-1.jpg",
+            "price": "7260",
+            "count_rating": "10",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Зарядное устройство",
+            "link": "https://www.wildberries.ru/catalog/16221128/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16220000/16221128-1.jpg",
+            "price": "2610",
+            "count_rating": "13",
+            "rating": "2"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Оптический привод MD564ZM/A / DVD-RW",
+            "link": "https://www.wildberries.ru/catalog/6485055/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6480000/6485055-1.jpg",
+            "price": "12650",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41411820/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41411820-1.jpg",
+            "price": "7260",
+            "count_rating": "22",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / apple iphone",
+            "link": "https://www.wildberries.ru/catalog/41400802/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41400802-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Гарнитура",
+            "link": "https://www.wildberries.ru/catalog/44809865/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/44800000/44809865-1.jpg",
+            "price": "38570",
+            "count_rating": "56",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41411821/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41411821-1.jpg",
+            "price": "7260",
+            "count_rating": "22",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / apple iphone",
+            "link": "https://www.wildberries.ru/catalog/41400798/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41400798-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 / Iphone 12 pro",
+            "link": "https://www.wildberries.ru/catalog/32960586/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/32960000/32960586-1.jpg",
+            "price": "7260",
+            "count_rating": "13",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/41407205/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41407205-1.jpg",
+            "price": "8720",
+            "count_rating": "27",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Гарнитура AirPods Max (MGYJ3RU/A)",
+            "link": "https://www.wildberries.ru/catalog/17966389/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17960000/17966389-1.jpg",
+            "price": "82990",
+            "count_rating": "7",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 mini 256GB / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875663/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875663-1.jpg",
+            "price": "104990",
+            "count_rating": "34",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Клавиатура",
+            "link": "https://www.wildberries.ru/catalog/27097554/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27097554-1.jpg",
+            "price": "52790",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/41414854/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41414854-1.jpg",
+            "price": "7260",
+            "count_rating": "28",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41413961/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41413961-1.jpg",
+            "price": "7260",
+            "count_rating": "29",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Другие аксессуары для смартфона",
+            "link": "https://www.wildberries.ru/catalog/44805694/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/44800000/44805694-1.jpg",
+            "price": "2900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 mini 256GB / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40679260/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40670000/40679260-1.jpg",
+            "price": "118990",
+            "count_rating": "39",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для ноутбука",
+            "link": "https://www.wildberries.ru/catalog/12067445/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/12060000/12067445-1.jpg",
+            "price": "30540",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Зарядное устройство MRW22ZM/A / Type C",
+            "link": "https://www.wildberries.ru/catalog/6804151/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6800000/6804151-1.jpg",
+            "price": "10890",
+            "count_rating": "3",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Гарнитура AirPods",
+            "link": "https://www.wildberries.ru/catalog/7601410/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7600000/7601410-1.jpg",
+            "price": "19990",
+            "count_rating": "374",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/10851100/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/10850000/10851100-1.jpg",
+            "price": "10890",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Клавиатура Magic / полумеханическая",
+            "link": "https://www.wildberries.ru/catalog/5239584/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5230000/5239584-1.jpg",
+            "price": "20650",
+            "count_rating": "7",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для ноутбука",
+            "link": "https://www.wildberries.ru/catalog/7346592/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7340000/7346592-1.jpg",
+            "price": "27940",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/15880292/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880292-1.jpg",
+            "price": "7260",
+            "count_rating": "11",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/27092004/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27092004-1.jpg",
+            "price": "14540",
+            "count_rating": "3",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Переходник Jack 3,5 мм / type C",
+            "link": "https://www.wildberries.ru/catalog/6804150/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6800000/6804150-1.jpg",
+            "price": "1290",
+            "count_rating": "61",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41413959/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41413959-1.jpg",
+            "price": "7260",
+            "count_rating": "29",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41412500/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41412500-1.jpg",
+            "price": "7260",
+            "count_rating": "4",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41405764/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41405764-1.jpg",
+            "price": "8720",
+            "count_rating": "12",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41413956/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41413956-1.jpg",
+            "price": "7260",
+            "count_rating": "29",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/15880280/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880280-1.jpg",
+            "price": "7260",
+            "count_rating": "65",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Компьютер Intel Core i5 / 8 ГБ / Intel UHD Graphics 630 / macOS",
+            "link": "https://www.wildberries.ru/catalog/11759786/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11759786-1.jpg",
+            "price": "164810",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/40685083/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40680000/40685083-1.jpg",
+            "price": "144990",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41413960/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41413960-1.jpg",
+            "price": "7260",
+            "count_rating": "29",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/6267931/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6260000/6267931-1.jpg",
+            "price": "5810",
+            "count_rating": "13",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 2TB Wi-Fi / 12.9'' / 2048 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27108406/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27100000/27108406-1.jpg",
+            "price": "299670",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 256GB (PRODUCT)RED / 6.1'' / 2532x1170 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875676/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875676-1.jpg",
+            "price": "114990",
+            "count_rating": "10",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41411818/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41411818-1.jpg",
+            "price": "7260",
+            "count_rating": "22",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/6477101/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6470000/6477101-1.jpg",
+            "price": "7980",
+            "count_rating": "5",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/6268011/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6260000/6268011-1.jpg",
+            "price": "4290",
+            "count_rating": "4",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/15880295/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880295-1.jpg",
+            "price": "8720",
+            "count_rating": "31",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41408247/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41408247-1.jpg",
+            "price": "7260",
+            "count_rating": "11",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41408248/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41408248-1.jpg",
+            "price": "7260",
+            "count_rating": "11",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / apple iphone",
+            "link": "https://www.wildberries.ru/catalog/41400800/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41400800-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 mini 256GB / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875662/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875662-1.jpg",
+            "price": "104990",
+            "count_rating": "34",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41411822/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41411822-1.jpg",
+            "price": "7260",
+            "count_rating": "22",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/41407206/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41407206-1.jpg",
+            "price": "8720",
+            "count_rating": "27",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель USB Type C / MM093ZM/A",
+            "link": "https://www.wildberries.ru/catalog/58116129/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/58110000/58116129-1.jpg",
+            "price": "2900",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/41377258/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41370000/41377258-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41405765/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41405765-1.jpg",
+            "price": "8720",
+            "count_rating": "12",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "MP3 плеер",
+            "link": "https://www.wildberries.ru/catalog/8888739/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8880000/8888739-1.jpg",
+            "price": "41010",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41392519/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41392519-1.jpg",
+            "price": "8720",
+            "count_rating": "5",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41413958/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41413958-1.jpg",
+            "price": "7260",
+            "count_rating": "29",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Зарядное устройство MD506Z/A",
+            "link": "https://www.wildberries.ru/catalog/6477930/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6470000/6477930-1.jpg",
+            "price": "11500",
+            "count_rating": "5",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 pro max",
+            "link": "https://www.wildberries.ru/catalog/27099735/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27099735-1.jpg",
+            "price": "7260",
+            "count_rating": "16",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41405767/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41405767-1.jpg",
+            "price": "8720",
+            "count_rating": "12",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/41407204/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41407204-1.jpg",
+            "price": "8720",
+            "count_rating": "27",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 / Iphone 12 pro",
+            "link": "https://www.wildberries.ru/catalog/27099415/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27099415-1.jpg",
+            "price": "7260",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 mini 256GB / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875660/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875660-1.jpg",
+            "price": "104990",
+            "count_rating": "34",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "MP3 плеер",
+            "link": "https://www.wildberries.ru/catalog/8888746/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8880000/8888746-1.jpg",
+            "price": "54400",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/27098399/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27098399-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель USB Type C / MM0A3ZM/A",
+            "link": "https://www.wildberries.ru/catalog/44796876/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/44790000/44796876-1.jpg",
+            "price": "2900",
+            "count_rating": "1",
+            "rating": "1"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/41414850/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41414850-1.jpg",
+            "price": "7260",
+            "count_rating": "28",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880253/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880253-1.jpg",
+            "price": "8720",
+            "count_rating": "4",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона бампер / iPhone 13 pro max / Айфон 13 про макс",
+            "link": "https://www.wildberries.ru/catalog/51276926/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/51270000/51276926-1.jpg",
+            "price": "8097",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Блок питания для ноутбука MC461Z/A",
+            "link": "https://www.wildberries.ru/catalog/6477928/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6470000/6477928-1.jpg",
+            "price": "12650",
+            "count_rating": "10",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 1TB Wi-Fi / 12.9'' / 1024 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27107825/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27100000/27107825-1.jpg",
+            "price": "247300",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41392516/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41392516-1.jpg",
+            "price": "8720",
+            "count_rating": "5",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41408249/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41408249-1.jpg",
+            "price": "7260",
+            "count_rating": "11",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41411816/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41411816-1.jpg",
+            "price": "7260",
+            "count_rating": "22",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/15119003/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15110000/15119003-1.jpg",
+            "price": "5740",
+            "count_rating": "4",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 / Iphone 12 pro",
+            "link": "https://www.wildberries.ru/catalog/32960585/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/32960000/32960585-1.jpg",
+            "price": "7260",
+            "count_rating": "13",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/6477099/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6470000/6477099-1.jpg",
+            "price": "4350",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Переходник lightning 8 pin / lightning 8 pin",
+            "link": "https://www.wildberries.ru/catalog/5465768/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5460000/5465768-1.jpg",
+            "price": "4350",
+            "count_rating": "19",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Пульт телевизионный",
+            "link": "https://www.wildberries.ru/catalog/27233150/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27230000/27233150-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 / Iphone 12 pro",
+            "link": "https://www.wildberries.ru/catalog/32960587/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/32960000/32960587-1.jpg",
+            "price": "7260",
+            "count_rating": "13",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41408250/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41408250-1.jpg",
+            "price": "7260",
+            "count_rating": "11",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / apple iphone",
+            "link": "https://www.wildberries.ru/catalog/41400801/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41400801-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/27092005/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27092005-1.jpg",
+            "price": "14540",
+            "count_rating": "3",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/27087249/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27080000/27087249-1.jpg",
+            "price": "11630",
+            "count_rating": "2",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/15880290/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880290-1.jpg",
+            "price": "7260",
+            "count_rating": "53",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/27092002/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27092002-1.jpg",
+            "price": "14540",
+            "count_rating": "3",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41413957/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41413957-1.jpg",
+            "price": "7260",
+            "count_rating": "29",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 pro max",
+            "link": "https://www.wildberries.ru/catalog/32962319/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/32960000/32962319-1.jpg",
+            "price": "7260",
+            "count_rating": "6",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/15880281/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880281-1.jpg",
+            "price": "7260",
+            "count_rating": "6",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/15880296/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880296-1.jpg",
+            "price": "8720",
+            "count_rating": "31",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 2TB Wi-Fi / 12.9'' / 2048 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27108407/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27100000/27108407-1.jpg",
+            "price": "299670",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 / Iphone 12 pro",
+            "link": "https://www.wildberries.ru/catalog/27098193/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27098193-1.jpg",
+            "price": "8720",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 pro max",
+            "link": "https://www.wildberries.ru/catalog/27099734/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27099734-1.jpg",
+            "price": "7260",
+            "count_rating": "16",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смарт-часы",
+            "link": "https://www.wildberries.ru/catalog/15128987/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15120000/15128987-1.jpg",
+            "price": "57440",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/15880282/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880282-1.jpg",
+            "price": "7260",
+            "count_rating": "65",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41394041/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41394041-1.jpg",
+            "price": "8720",
+            "count_rating": "9",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41414362/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41414362-1.jpg",
+            "price": "7260",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/41414851/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41414851-1.jpg",
+            "price": "7260",
+            "count_rating": "28",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/44909364/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/44900000/44909364-1.jpg",
+            "price": "9440",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/15880260/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880260-1.jpg",
+            "price": "8720",
+            "count_rating": "35",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/41377257/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41370000/41377257-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880252/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880252-1.jpg",
+            "price": "8720",
+            "count_rating": "24",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone SE (2020)",
+            "link": "https://www.wildberries.ru/catalog/12040765/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/12040000/12040765-1.jpg",
+            "price": "6970",
+            "count_rating": "6",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Клавиатура MXNL2RS/A / мембранная",
+            "link": "https://www.wildberries.ru/catalog/11757352/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11757352-1.jpg",
+            "price": "28790",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/27090316/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27090316-1.jpg",
+            "price": "11630",
+            "count_rating": "5",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/41407207/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41407207-1.jpg",
+            "price": "8720",
+            "count_rating": "27",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41405766/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41405766-1.jpg",
+            "price": "8720",
+            "count_rating": "12",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880272/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880272-1.jpg",
+            "price": "7260",
+            "count_rating": "32",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41409419/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41409419-1.jpg",
+            "price": "7260",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Переходник lightning 30 pin / Micro USB 2.0",
+            "link": "https://www.wildberries.ru/catalog/6477100/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6470000/6477100-1.jpg",
+            "price": "4780",
+            "count_rating": "11",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41392517/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41392517-1.jpg",
+            "price": "8720",
+            "count_rating": "5",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Переходник",
+            "link": "https://www.wildberries.ru/catalog/2157465/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/2150000/2157465-1.jpg",
+            "price": "7260",
+            "count_rating": "6",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/15880289/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880289-1.jpg",
+            "price": "7260",
+            "count_rating": "7",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41394043/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41394043-1.jpg",
+            "price": "8720",
+            "count_rating": "9",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/27228075/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27220000/27228075-1.jpg",
+            "price": "5810",
+            "count_rating": "3",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Intel Core i3 / 8 ГБ / 256 Гб / 21,5\" / 4096x2304 / AMD Radeon Pro 555 / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/14550364/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/14550000/14550364-1.jpg",
+            "price": "216020",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41392515/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41392515-1.jpg",
+            "price": "8720",
+            "count_rating": "5",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880270/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880270-1.jpg",
+            "price": "7260",
+            "count_rating": "32",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/15880286/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880286-1.jpg",
+            "price": "7260",
+            "count_rating": "53",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880269/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880269-1.jpg",
+            "price": "7260",
+            "count_rating": "32",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/6268012/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6260000/6268012-1.jpg",
+            "price": "1390",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41408244/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41408244-1.jpg",
+            "price": "7260",
+            "count_rating": "11",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880271/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880271-1.jpg",
+            "price": "7260",
+            "count_rating": "32",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/27089704/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27080000/27089704-1.jpg",
+            "price": "7260",
+            "count_rating": "1",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/41414849/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41414849-1.jpg",
+            "price": "7260",
+            "count_rating": "28",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/15119001/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15110000/15119001-1.jpg",
+            "price": "5740",
+            "count_rating": "4",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone 11 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/9323583/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/9320000/9323583-1.jpg",
+            "price": "20230",
+            "count_rating": "7",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/15880287/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880287-1.jpg",
+            "price": "7260",
+            "count_rating": "53",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 / Iphone 12 pro",
+            "link": "https://www.wildberries.ru/catalog/27099413/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27099413-1.jpg",
+            "price": "7260",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/6953443/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6950000/6953443-1.jpg",
+            "price": "6550",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/5463269/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5460000/5463269-1.jpg",
+            "price": "5740",
+            "count_rating": "9",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Клавиатура MK2C3RS/A",
+            "link": "https://www.wildberries.ru/catalog/37010508/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/37010000/37010508-1.jpg",
+            "price": "28660",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/6952644/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6950000/6952644-1.jpg",
+            "price": "9440",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / apple iphone",
+            "link": "https://www.wildberries.ru/catalog/41400799/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41400799-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/27098545/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27098545-1.jpg",
+            "price": "7260",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 11 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/11756190/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11756190-1.jpg",
+            "price": "6240",
+            "count_rating": "28",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/41390340/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41390340-1.jpg",
+            "price": "5810",
+            "count_rating": "3",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/15119002/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15110000/15119002-1.jpg",
+            "price": "5740",
+            "count_rating": "4",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/27088863/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27080000/27088863-1.jpg",
+            "price": "5740",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Intel Core i5 / 8 ГБ / 256 Гб / 21,5\" / 1920x1080 / Intel Iris Plus Graphics 640 / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/14550363/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/14550000/14550363-1.jpg",
+            "price": "140400",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41394040/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41394040-1.jpg",
+            "price": "8720",
+            "count_rating": "9",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 / Iphone 12 pro",
+            "link": "https://www.wildberries.ru/catalog/27099412/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27099412-1.jpg",
+            "price": "7260",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель Thunderbolt",
+            "link": "https://www.wildberries.ru/catalog/6474468/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6470000/6474468-1.jpg",
+            "price": "6550",
+            "count_rating": "2",
+            "rating": "1"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Клавиатура MK293RS/A",
+            "link": "https://www.wildberries.ru/catalog/36997092/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/36990000/36997092-1.jpg",
+            "price": "23850",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/6379267/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379267-1.jpg",
+            "price": "15990",
+            "count_rating": "3",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Переходник",
+            "link": "https://www.wildberries.ru/catalog/2157502/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/2150000/2157502-1.jpg",
+            "price": "10890",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880255/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880255-1.jpg",
+            "price": "8720",
+            "count_rating": "24",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880256/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880256-1.jpg",
+            "price": "8720",
+            "count_rating": "24",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41392518/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41392518-1.jpg",
+            "price": "8720",
+            "count_rating": "5",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41394042/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41394042-1.jpg",
+            "price": "8720",
+            "count_rating": "9",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Переходник lightning 30 pin / microUSB",
+            "link": "https://www.wildberries.ru/catalog/5462428/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5460000/5462428-1.jpg",
+            "price": "7260",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880268/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880268-1.jpg",
+            "price": "7260",
+            "count_rating": "32",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель Thunderbolt",
+            "link": "https://www.wildberries.ru/catalog/6474469/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6470000/6474469-1.jpg",
+            "price": "4350",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/6379258/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379258-1.jpg",
+            "price": "14540",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Блок питания для ноутбука MD565Z/A / 100-240 В",
+            "link": "https://www.wildberries.ru/catalog/6952635/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6950000/6952635-1.jpg",
+            "price": "12650",
+            "count_rating": "4",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/41377255/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41370000/41377255-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41394039/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41394039-1.jpg",
+            "price": "8720",
+            "count_rating": "9",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41405763/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41405763-1.jpg",
+            "price": "8720",
+            "count_rating": "12",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/32957804/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/32950000/32957804-1.jpg",
+            "price": "7260",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 2TB Wi-Fi + Cellular / 11'' / 2048 ГБ / IPS / 2G",
+            "link": "https://www.wildberries.ru/catalog/27125168/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27120000/27125168-1.jpg",
+            "price": "277840",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "MP3 плеер",
+            "link": "https://www.wildberries.ru/catalog/8888742/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8880000/8888742-1.jpg",
+            "price": "41010",
+            "count_rating": "1",
+            "rating": "1"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона бампер / iPhone 13 pro / Айфон 13 про",
+            "link": "https://www.wildberries.ru/catalog/51346916/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/51340000/51346916-1.jpg",
+            "price": "9707",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/41377256/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41370000/41377256-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/32957806/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/32950000/32957806-1.jpg",
+            "price": "7260",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 pro max",
+            "link": "https://www.wildberries.ru/catalog/32962320/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/32960000/32962320-1.jpg",
+            "price": "7260",
+            "count_rating": "6",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone SE (2020)",
+            "link": "https://www.wildberries.ru/catalog/12040767/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/12040000/12040767-1.jpg",
+            "price": "6970",
+            "count_rating": "6",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/27228076/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27220000/27228076-1.jpg",
+            "price": "5810",
+            "count_rating": "3",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Intel Core i5 / 8 ГБ / 256 Гб / 21,5\" / 4096x2304 / AMD Radeon Pro 560X / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/14550365/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/14550000/14550365-1.jpg",
+            "price": "248020",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41408246/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41408246-1.jpg",
+            "price": "7260",
+            "count_rating": "11",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880291/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880291-1.jpg",
+            "price": "7260",
+            "count_rating": "8",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880274/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880274-1.jpg",
+            "price": "7260",
+            "count_rating": "32",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/15880275/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880275-1.jpg",
+            "price": "7260",
+            "count_rating": "65",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/8895109/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8890000/8895109-1.jpg",
+            "price": "5740",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель",
+            "link": "https://www.wildberries.ru/catalog/30547253/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/30540000/30547253-1.jpg",
+            "price": "5230",
+            "count_rating": "1",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Зарядное устройство MD837ZM/A / USB",
+            "link": "https://www.wildberries.ru/catalog/9028723/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/9020000/9028723-1.jpg",
+            "price": "4780",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Ноутбук Intel Core i5 1038NG7 / 16 ГБ / 1 Тб / 13'' / 2560x1600 / Intel Iris Plus Graphics G7 / macOS",
+            "link": "https://www.wildberries.ru/catalog/12403170/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/12400000/12403170-1.jpg",
+            "price": "320030",
+            "count_rating": "1",
+            "rating": "1"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 2TB Wi-Fi + Cellular 12.9\" 2021 / 12.9'' / 2048 ГБ / IPS / 5G; 4G; 3G",
+            "link": "https://www.wildberries.ru/catalog/27115238/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27110000/27115238-1.jpg",
+            "price": "300000",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Apple M1 / 8 ГБ / 512 Гб / 24\" / 4480x2520 / Apple M1 8-core / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/27225833/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27220000/27225833-1.jpg",
+            "price": "299230",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Ноутбук 16 ГБ / 512 Гб / 13'' / 2560x1600 / Intel Iris Plus Graphics / macOS",
+            "link": "https://www.wildberries.ru/catalog/12403169/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/12400000/12403169-1.jpg",
+            "price": "288020",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 2TB Wi-Fi + Cellular / 11'' / 2048 ГБ / IPS / 2G",
+            "link": "https://www.wildberries.ru/catalog/27125169/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27120000/27125169-1.jpg",
+            "price": "277840",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 1TB Wi-Fi + Cellular / 12.9'' / 1024 ГБ / IPS / 5G; 4G; 3G; 2G",
+            "link": "https://www.wildberries.ru/catalog/27114268/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27110000/27114268-1.jpg",
+            "price": "267660",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Apple M1 / 8 ГБ / 256 Гб / 24\" / 4480x2520 / Apple M1 8-core / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/27131405/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27130000/27131405-1.jpg",
+            "price": "264020",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок Apple M1 / 8 ГБ / 256 Гб / 24\" / 4480x2520 / Apple M1 8-core / без ODD / macOS",
+            "link": "https://www.wildberries.ru/catalog/27131404/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27130000/27131404-1.jpg",
+            "price": "264020",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 2TB Wi-Fi / 11'' / 2048 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27120611/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27120000/27120611-1.jpg",
+            "price": "257480",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 2TB Wi-Fi / 11'' / 2048 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27120612/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27120000/27120612-1.jpg",
+            "price": "257480",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 1Tb Wi-Fi + Cellular 12.9\" 2020 / 12.9'' / 512 ГБ / IPS / 4G",
+            "link": "https://www.wildberries.ru/catalog/11777026/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11770000/11777026-1.jpg",
+            "price": "212380",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 1TB Wi-Fi / 11'' / 1024 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/27120036/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27120000/27120036-1.jpg",
+            "price": "205110",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 1Tb Wi-Fi 12.9\" 2020 / 12.9'' / 1024 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/11777009/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11770000/11777009-1.jpg",
+            "price": "192010",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 1Tb  / 12.9'' / 1000 ГБ / IPS / Wi-Fi",
+            "link": "https://www.wildberries.ru/catalog/8809895/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8800000/8809895-1.jpg",
+            "price": "189110",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 11 1Tb / 11'' / 1024 ГБ / Liquid Retina HD / Wi-Fi",
+            "link": "https://www.wildberries.ru/catalog/6788373/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6780000/6788373-1.jpg",
+            "price": "183290",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 11 1Tb / 11'' / 1024 ГБ / Liquid Retina HD / 3G / 4G / Wi-Fi",
+            "link": "https://www.wildberries.ru/catalog/6788374/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6780000/6788374-1.jpg",
+            "price": "174560",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone Xs Max 512GB / 6.5'' / 2688x1242 / OLED / Super Retina / 4 ГБ / 512 ГБ / 3200 мА*ч",
+            "link": "https://www.wildberries.ru/catalog/6358729/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6350000/6358729-1.jpg",
+            "price": "149830",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/40682787/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40680000/40682787-1.jpg",
+            "price": "144990",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/40682785/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40680000/40682785-1.jpg",
+            "price": "144990",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Компьютер Intel Core i3 / 8 ГБ / Intel UHD Graphics 630 / macOS",
+            "link": "https://www.wildberries.ru/catalog/11759785/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11759785-1.jpg",
+            "price": "116800",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Модуль памяти MP7N2G/A / 32 ГБ / DDR4",
+            "link": "https://www.wildberries.ru/catalog/10851098/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/10850000/10851098-1.jpg",
+            "price": "110000",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 11 Pro Max, 64 ГБ / 6.5'' / 2688x1242 / OLED / 64 ГБ",
+            "link": "https://www.wildberries.ru/catalog/43885672/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/43880000/43885672-1.jpg",
+            "price": "105020",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904789/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904789-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904827/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904827-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок",
+            "link": "https://www.wildberries.ru/catalog/16356823/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16350000/16356823-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904821/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904821-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904816/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904816-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904787/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904787-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904792/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904792-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904825/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904825-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904791/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904791-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904823/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904823-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904790/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904790-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904824/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904824-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904794/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904794-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904819/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904819-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904793/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904793-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904817/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904817-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904828/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904828-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904820/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904820-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Моноблок 8 ГБ / macOS",
+            "link": "https://www.wildberries.ru/catalog/17904818/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/17900000/17904818-1.jpg",
+            "price": "86250",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "MP3 плеер",
+            "link": "https://www.wildberries.ru/catalog/10851102/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/10850000/10851102-1.jpg",
+            "price": "54400",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "MP3 плеер",
+            "link": "https://www.wildberries.ru/catalog/8888745/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8880000/8888745-1.jpg",
+            "price": "54400",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "MP3 плеер",
+            "link": "https://www.wildberries.ru/catalog/8888740/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8880000/8888740-1.jpg",
+            "price": "41010",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кронштейн для монитора",
+            "link": "https://www.wildberries.ru/catalog/47427063/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/47420000/47427063-1.jpg",
+            "price": "33590",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для ноутбука",
+            "link": "https://www.wildberries.ru/catalog/10851121/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/10850000/10851121-1.jpg",
+            "price": "30540",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для ноутбука",
+            "link": "https://www.wildberries.ru/catalog/11810242/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11810000/11810242-1.jpg",
+            "price": "30540",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для ноутбука",
+            "link": "https://www.wildberries.ru/catalog/7346587/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7340000/7346587-1.jpg",
+            "price": "27940",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для ноутбука",
+            "link": "https://www.wildberries.ru/catalog/7346588/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7340000/7346588-1.jpg",
+            "price": "27940",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для ноутбука",
+            "link": "https://www.wildberries.ru/catalog/7346590/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7340000/7346590-1.jpg",
+            "price": "22530",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/10851124/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/10850000/10851124-1.jpg",
+            "price": "20230",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone 11 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/11756194/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11756194-1.jpg",
+            "price": "20230",
+            "count_rating": "7",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-книжка для телефона Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/9323582/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/9320000/9323582-1.jpg",
+            "price": "20230",
+            "count_rating": "4",
+            "rating": "2"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/8895107/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8890000/8895107-1.jpg",
+            "price": "20230",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-книжка для телефона Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/11756191/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11756191-1.jpg",
+            "price": "20230",
+            "count_rating": "4",
+            "rating": "2"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/11810244/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11810000/11810244-1.jpg",
+            "price": "20230",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/10851120/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/10850000/10851120-1.jpg",
+            "price": "20230",
+            "count_rating": "2",
+            "rating": "1"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/8895106/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8890000/8895106-1.jpg",
+            "price": "20230",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-книжка для телефона Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/11756192/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11756192-1.jpg",
+            "price": "20230",
+            "count_rating": "4",
+            "rating": "2"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-книжка для телефона Apple iPhone 11 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/11756196/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11756196-1.jpg",
+            "price": "20230",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone Xr",
+            "link": "https://www.wildberries.ru/catalog/8895100/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8890000/8895100-1.jpg",
+            "price": "20230",
+            "count_rating": "1",
+            "rating": "1"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-книжка для телефона Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/11756193/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11756193-1.jpg",
+            "price": "20230",
+            "count_rating": "4",
+            "rating": "2"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone 11 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/9323584/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/9320000/9323584-1.jpg",
+            "price": "20230",
+            "count_rating": "7",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/10851119/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/10850000/10851119-1.jpg",
+            "price": "20230",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/10851123/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/10850000/10851123-1.jpg",
+            "price": "20230",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/6379264/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379264-1.jpg",
+            "price": "20230",
+            "count_rating": "3",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-книжка для телефона Apple iPhone 11 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/11756195/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11756195-1.jpg",
+            "price": "20230",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-книжка для телефона Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/9323581/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/9320000/9323581-1.jpg",
+            "price": "20230",
+            "count_rating": "4",
+            "rating": "2"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/8434292/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8430000/8434292-1.jpg",
+            "price": "20230",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-кармашек для телефона Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/16864682/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16864682-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-кармашек для телефона Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/16864676/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16864676-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-кармашек для телефона Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/16864683/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16864683-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/5463261/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5460000/5463261-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Iphone 12 pro max",
+            "link": "https://www.wildberries.ru/catalog/27100350/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27100000/27100350-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/5463293/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5460000/5463293-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-кармашек для телефона Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/16864680/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16864680-1.jpg",
+            "price": "18900",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/5463272/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5460000/5463272-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-кармашек для телефона Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/16864686/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16864686-1.jpg",
+            "price": "18900",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-кармашек для телефона Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/16864687/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16864687-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-кармашек для телефона Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/16864679/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16864679-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-кармашек для телефона Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/16864677/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16864677-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/6952643/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6950000/6952643-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/5463271/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5460000/5463271-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/27099900/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27099900-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/5463260/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5460000/5463260-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-кармашек для телефона Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/16864685/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16864685-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол-кармашек для телефона Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/16864678/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16860000/16864678-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Iphone 12 / Iphone 12 pro",
+            "link": "https://www.wildberries.ru/catalog/27100284/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27100000/27100284-1.jpg",
+            "price": "18900",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Ремешок для умных часов Apple Watch 3 38mm / Apple Watch Series 5 40mm",
+            "link": "https://www.wildberries.ru/catalog/15247629/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15240000/15247629-1.jpg",
+            "price": "17320",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/6952642/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6950000/6952642-1.jpg",
+            "price": "17290",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/5463265/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/5460000/5463265-1.jpg",
+            "price": "16710",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Наушники AirPods Pro",
+            "link": "https://www.wildberries.ru/catalog/38198281/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/38190000/38198281-1.jpg",
+            "price": "16274",
+            "count_rating": "8",
+            "rating": "2"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/6379263/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379263-1.jpg",
+            "price": "15990",
+            "count_rating": "3",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/6379265/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379265-1.jpg",
+            "price": "15990",
+            "count_rating": "3",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/6379266/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379266-1.jpg",
+            "price": "15990",
+            "count_rating": "3",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/6379262/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379262-1.jpg",
+            "price": "14540",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/6379261/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379261-1.jpg",
+            "price": "14540",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/6379260/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379260-1.jpg",
+            "price": "14540",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/8434290/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8430000/8434290-1.jpg",
+            "price": "14540",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/8434289/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8430000/8434289-1.jpg",
+            "price": "14540",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/8434291/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8430000/8434291-1.jpg",
+            "price": "14540",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/6379259/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379259-1.jpg",
+            "price": "14540",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Блок питания для ноутбука MD592Z/A",
+            "link": "https://www.wildberries.ru/catalog/6477931/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6470000/6477931-1.jpg",
+            "price": "12650",
+            "count_rating": "11",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/7346589/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7340000/7346589-1.jpg",
+            "price": "12560",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/8434294/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8430000/8434294-1.jpg",
+            "price": "12560",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Гарнитура AirPods",
+            "link": "https://www.wildberries.ru/catalog/7601409/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7600000/7601409-1.jpg",
+            "price": "12380",
+            "count_rating": "31",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Блок питания для ноутбука MC747Z/A",
+            "link": "https://www.wildberries.ru/catalog/6477929/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6470000/6477929-1.jpg",
+            "price": "11190",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Наушники AirPods 2",
+            "link": "https://www.wildberries.ru/catalog/38208942/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/38200000/38208942-1.jpg",
+            "price": "9744",
+            "count_rating": "11",
+            "rating": "1"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/27097843/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27097843-1.jpg",
+            "price": "8720",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/15880266/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880266-1.jpg",
+            "price": "8720",
+            "count_rating": "24",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/15880297/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880297-1.jpg",
+            "price": "8720",
+            "count_rating": "31",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/15880294/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880294-1.jpg",
+            "price": "8720",
+            "count_rating": "31",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/15880263/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880263-1.jpg",
+            "price": "8720",
+            "count_rating": "7",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона бампер / iPhone 13 pro / Айфон 13 про",
+            "link": "https://www.wildberries.ru/catalog/51289026/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/51280000/51289026-1.jpg",
+            "price": "8097",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 6 Plus/6S Plus",
+            "link": "https://www.wildberries.ru/catalog/8895093/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8890000/8895093-1.jpg",
+            "price": "7980",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/6379254/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379254-1.jpg",
+            "price": "7980",
+            "count_rating": "15",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/6379253/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379253-1.jpg",
+            "price": "7980",
+            "count_rating": "15",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Appie Iphone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/9323559/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/9320000/9323559-1.jpg",
+            "price": "7980",
+            "count_rating": "22",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/6379273/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6370000/6379273-1.jpg",
+            "price": "7980",
+            "count_rating": "15",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/8434293/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8430000/8434293-1.jpg",
+            "price": "7980",
+            "count_rating": "1",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 6 Plus/6S Plus",
+            "link": "https://www.wildberries.ru/catalog/8895093/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8890000/8895093-1.jpg",
+            "price": "7980",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Appie Iphone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/9323559/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/9320000/9323559-1.jpg",
+            "price": "7980",
+            "count_rating": "22",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/27098546/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27098546-1.jpg",
+            "price": "7260",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/7811505/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7810000/7811505-1.jpg",
+            "price": "7260",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/32957805/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/32950000/32957805-1.jpg",
+            "price": "7260",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880273/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880273-1.jpg",
+            "price": "7260",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/27098547/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27098547-1.jpg",
+            "price": "7260",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro",
+            "link": "https://www.wildberries.ru/catalog/41413962/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41413962-1.jpg",
+            "price": "7260",
+            "count_rating": "29",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/7742185/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7740000/7742185-1.jpg",
+            "price": "7260",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/27098544/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27098544-1.jpg",
+            "price": "7260",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 / Iphone 12 pro",
+            "link": "https://www.wildberries.ru/catalog/27099414/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27090000/27099414-1.jpg",
+            "price": "7260",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/15880288/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880288-1.jpg",
+            "price": "7260",
+            "count_rating": "53",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/15880284/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880284-1.jpg",
+            "price": "7260",
+            "count_rating": "53",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 mini",
+            "link": "https://www.wildberries.ru/catalog/15880267/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880267-1.jpg",
+            "price": "7260",
+            "count_rating": "32",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/41414855/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41414855-1.jpg",
+            "price": "7260",
+            "count_rating": "28",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Iphone 12 pro max",
+            "link": "https://www.wildberries.ru/catalog/32962321/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/32960000/32962321-1.jpg",
+            "price": "7260",
+            "count_rating": "6",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13 mini",
+            "link": "https://www.wildberries.ru/catalog/41408245/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41400000/41408245-1.jpg",
+            "price": "7260",
+            "count_rating": "11",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 6/6S",
+            "link": "https://www.wildberries.ru/catalog/8895098/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8890000/8895098-1.jpg",
+            "price": "6970",
+            "count_rating": "4",
+            "rating": "2"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/7377972/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/7370000/7377972-1.jpg",
+            "price": "6640",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Кабель USB Type-C",
+            "link": "https://www.wildberries.ru/catalog/6477107/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6470000/6477107-1.jpg",
+            "price": "6550",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/58156927/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/58150000/58156927-1.jpg",
+            "price": "6530",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/58156929/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/58150000/58156929-1.jpg",
+            "price": "6530",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/58156926/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/58150000/58156926-1.jpg",
+            "price": "6530",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/58156928/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/58150000/58156928-1.jpg",
+            "price": "6530",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/27228347/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27220000/27228347-1.jpg",
+            "price": "6530",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 11",
+            "link": "https://www.wildberries.ru/catalog/9323555/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/9320000/9323555-1.jpg",
+            "price": "6240",
+            "count_rating": "11",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/58168874/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/58160000/58168874-1.jpg",
+            "price": "5810",
+            "count_rating": "3",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/47433042/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/47430000/47433042-1.jpg",
+            "price": "5810",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/41390342/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41390000/41390342-1.jpg",
+            "price": "5810",
+            "count_rating": "3",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/58168873/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/58160000/58168873-1.jpg",
+            "price": "5810",
+            "count_rating": "3",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/10851126/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/10850000/10851126-1.jpg",
+            "price": "5740",
+            "count_rating": "3",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/27088864/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27080000/27088864-1.jpg",
+            "price": "5740",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона бампер / iPhone 11 pro / айфон 11 про",
+            "link": "https://www.wildberries.ru/catalog/51578482/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/51570000/51578482-1.jpg",
+            "price": "5488",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone SE (2020)",
+            "link": "https://www.wildberries.ru/catalog/12040764/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/12040000/12040764-1.jpg",
+            "price": "5310",
+            "count_rating": "18",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/27227669/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27220000/27227669-1.jpg",
+            "price": "4780",
+            "count_rating": "3",
+            "rating": "1"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/47434541/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/47430000/47434541-1.jpg",
+            "price": "4780",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/47434542/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/47430000/47434542-1.jpg",
+            "price": "4780",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/27227667/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27220000/27227667-1.jpg",
+            "price": "4780",
+            "count_rating": "3",
+            "rating": "1"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для трекера",
+            "link": "https://www.wildberries.ru/catalog/27227668/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27220000/27227668-1.jpg",
+            "price": "4780",
+            "count_rating": "3",
+            "rating": "1"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Адаптер",
+            "link": "https://www.wildberries.ru/catalog/6268010/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/6260000/6268010-1.jpg",
+            "price": "4350",
+            "count_rating": "1",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона Apple iPhone 7",
+            "link": "https://www.wildberries.ru/catalog/3657543/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/3650000/3657543-1.jpg",
+            "price": "4000",
+            "count_rating": "19",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Наушники",
+            "link": "https://www.wildberries.ru/catalog/16853405/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16850000/16853405-1.jpg",
+            "price": "3120",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Зарядное устройство MD813ZM/A / USB",
+            "link": "https://www.wildberries.ru/catalog/2725917/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/2720000/2725917-1.jpg",
+            "price": "2610",
+            "count_rating": "75",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/13901666/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/13900000/13901666-1.jpg",
+            "price": "208",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/13901668/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/13900000/13901668-1.jpg",
+            "price": "208",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone 11 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/13901675/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/13900000/13901675-1.jpg",
+            "price": "160",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон",
+            "link": "https://www.wildberries.ru/catalog/26950698/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/26950000/26950698-1.jpg",
+            "price": "114990",
+            "count_rating": "54",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 11 128GB (PRODUCT)RED / 6.1'' / 1792x828 / Liquid Retina HD / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/16023991/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/16020000/16023991-1.jpg",
+            "price": "81990",
+            "count_rating": "53",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка",
+            "link": "https://www.wildberries.ru/catalog/41415312/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41415312-1.jpg",
+            "price": "7260",
+            "count_rating": "2",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона бампер / iPhone 13 pro max / Айфон 13 про макс",
+            "link": "https://www.wildberries.ru/catalog/51279959/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/51270000/51279959-1.jpg",
+            "price": "8097",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона бампер / iPhone 13 pro / Айфон 13 про",
+            "link": "https://www.wildberries.ru/catalog/51289023/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/51280000/51289023-1.jpg",
+            "price": "8097",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона бампер / iPhone 13 pro max / Айфон 13 про макс",
+            "link": "https://www.wildberries.ru/catalog/51279962/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/51270000/51279962-1.jpg",
+            "price": "8097",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для планшета",
+            "link": "https://www.wildberries.ru/catalog/11756169/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11750000/11756169-1.jpg",
+            "price": "6640",
+            "count_rating": "4",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Ноутбук Intel Core i9 9880H / 16 ГБ / 1 Тб / 16'' / 3072x1920 / AMD Radeon Pro 5500MTB / macOS",
+            "link": "https://www.wildberries.ru/catalog/10051591/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/10050000/10051591-1.jpg",
+            "price": "350000",
+            "count_rating": "3",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона бампер / iPhone 13 pro / Айфон 13 про",
+            "link": "https://www.wildberries.ru/catalog/51289022/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/51280000/51289022-1.jpg",
+            "price": "8097",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 11 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/9323577/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/9320000/9323577-1.jpg",
+            "price": "6240",
+            "count_rating": "28",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона бампер / iPhone 13 pro / Айфон 13 про",
+            "link": "https://www.wildberries.ru/catalog/51289027/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/51280000/51289027-1.jpg",
+            "price": "5196",
+            "count_rating": "1",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/13901708/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/13900000/13901708-1.jpg",
+            "price": "208",
+            "count_rating": "5",
+            "rating": "2"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone 11 Pro",
+            "link": "https://www.wildberries.ru/catalog/13901663/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/13900000/13901663-1.jpg",
+            "price": "208",
+            "count_rating": "2",
+            "rating": "3"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone Xs",
+            "link": "https://www.wildberries.ru/catalog/13901712/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/13900000/13901712-1.jpg",
+            "price": "208",
+            "count_rating": "5",
+            "rating": "2"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 13 mini 256GB / 5.4'' / 2340x1080 / OLED / 256 ГБ",
+            "link": "https://www.wildberries.ru/catalog/40679262/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/40670000/40679262-1.jpg",
+            "price": "118990",
+            "count_rating": "39",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Смартфон iPhone 12 mini 128GB / 5.4'' / 2340x1080 / OLED / 128 ГБ",
+            "link": "https://www.wildberries.ru/catalog/15875655/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15870000/15875655-1.jpg",
+            "price": "82910",
+            "count_rating": "141",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 512Gb Wi-Fi 12.9\" 2020 / 12.9'' / 512 ГБ / IPS",
+            "link": "https://www.wildberries.ru/catalog/11777007/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11770000/11777007-1.jpg",
+            "price": "165830",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 1TB Wi-Fi + Cellular / 12.9'' / 1024 ГБ / IPS / 5G; 4G; 3G; 2G",
+            "link": "https://www.wildberries.ru/catalog/27114267/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/27110000/27114267-1.jpg",
+            "price": "267660",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Наушники AirPods 3-го поколения (2021) MME73RU/A",
+            "link": "https://www.wildberries.ru/catalog/64118804/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/64110000/64118804-1.jpg",
+            "price": "28990",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/15880279/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880279-1.jpg",
+            "price": "7260",
+            "count_rating": "65",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Наушники AirPods PRO with MagSafe Case (2021) MLWK3RU/A",
+            "link": "https://www.wildberries.ru/catalog/63408237/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/63400000/63408237-1.jpg",
+            "price": "39990",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 13",
+            "link": "https://www.wildberries.ru/catalog/41411817/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/41410000/41411817-1.jpg",
+            "price": "7260",
+            "count_rating": "22",
+            "rating": "5"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Планшет iPad Pro 1Tb Wi-Fi + Cellular 12.9\" 2020 / 12.9'' / 512 ГБ / IPS / 4G",
+            "link": "https://www.wildberries.ru/catalog/11777027/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/11770000/11777027-1.jpg",
+            "price": "212380",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Гарнитура AirPods Pro",
+            "link": "https://www.wildberries.ru/catalog/38199333/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/38190000/38199333-1.jpg",
+            "price": "16460",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone 12 / Apple iPhone 12 Pro",
+            "link": "https://www.wildberries.ru/catalog/15880259/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/15880000/15880259-1.jpg",
+            "price": "8720",
+            "count_rating": "35",
+            "rating": "4"
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона бампер / Iphone 12 mini / айфон 12 мини",
+            "link": "https://www.wildberries.ru/catalog/51396174/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/51390000/51396174-1.jpg",
+            "price": "8097",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона накладка / Apple iPhone Xs Max",
+            "link": "https://www.wildberries.ru/catalog/8895108/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/8890000/8895108-1.jpg",
+            "price": "7980",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Наушники",
+            "link": "https://www.wildberries.ru/catalog/70169050/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/70160000/70169050-1.jpg",
+            "price": "5000",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone 11 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/13901677/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/13900000/13901677-1.jpg",
+            "price": "208",
+            "count_rating": 0,
+            "rating": null
+        },
+        {
+            "brand_name": "Apple / ",
+            "good_name": "Чехол для телефона кейс / накладка / Apple iPhone 11 Pro Max",
+            "link": "https://www.wildberries.ru/catalog/13901682/detail.aspx",
+            "photo": "//images.wbstatic.net/c516x688/new/13900000/13901682-1.jpg",
+            "price": "208",
+            "count_rating": 0,
+            "rating": null
+        }
+    ]
+}
